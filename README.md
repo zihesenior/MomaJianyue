@@ -2,6 +2,8 @@
 摩码简乐
 编程的方式写音乐
 
+开源计划：产品已上线，在产品生命周期后期将开源
+
 ![512](https://github.com/user-attachments/assets/eab5fa5b-14bc-4758-8401-4c0379ffc74f)
 
 下载 https://github.com/zihesenior/MomaJianyue/releases/tag/latest
