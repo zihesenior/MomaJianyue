@@ -2,11 +2,12 @@
 摩码简乐
 编程的方式写音乐
 
+# 下载 https://github.com/zihesenior/MomaJianyue/releases/tag/latest
+
 开源计划：产品已上线，在产品生命周期后期将开源
 
 ![512](https://github.com/user-attachments/assets/eab5fa5b-14bc-4758-8401-4c0379ffc74f)
 
-下载 https://github.com/zihesenior/MomaJianyue/releases/tag/latest
 
 ![Screenshot_2024-09-02-18-48-12-09_67107d13b31921c](https://github.com/user-attachments/assets/3fd2534d-fdf3-4488-b02a-479110927c5b)
 ![Screenshot_2024-09-02-18-48-16-37_67107d13b31921c](https://github.com/user-attachments/assets/0d02356b-5763-4ba3-bc33-0b9aacb1b365)
